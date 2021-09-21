@@ -1,116 +1,116 @@
-Read this file before working on the Project
+Read this file before using the Project
 Input : 1) Addres/Path of mp4(Video) file in your PC
-        2) Two digit ISO code which you want your subtitles to be in 
+        2) ISO code of Languages in which you want your subtitles to be in (List provided at the end of this file) 
 Output : SRT extension file of the same name (Can be uploaded to Youtube and used with VLC media to add subtitles)
 
 Subtitles can be generated from the video in any major language (For list of all the supported languages scroll to the end of this file)
 
-
+LANGUAGE      ISO Code
 Afrikaans	af
 Albanian	sq
-Amharic	am
-Arabic	ar
+Amharic	        am
+Arabic	        ar
 Armenian	hy
 Azerbaijani	az
-Basque	eu
+Basque	        eu
 Belarusian	be
-Bengali	bn
-Bosnian	bs
+Bengali	        bn
+Bosnian	        bs
 Bulgarian	bg
-Catalan	ca
-Cebuano	ceb (ISO-639-2)
+Catalan	        ca
+Cebuano	        ceb (ISO-639-2)
 Chinese (Simplified)	zh-CN or zh (BCP-47)
 Chinese (Traditional)	zh-TW (BCP-47)
 Corsican	co
 Croatian	hr
-Czech	cs
-Danish	da
-Dutch	nl
-English	en
+Czech	        cs
+Danish  	da
+Dutch	        nl
+English	        en
 Esperanto	eo
 Estonian	et
-Finnish	fi
-French	fr
-Frisian	fy
+Finnish	        fi
+French	        fr
+Frisian	        fy
 Galician	gl
 Georgian	ka
-German	de
-Greek	el
+German	        de
+Greek	        el
 Gujarati	gu
 Haitian Creole	ht
-Hausa	ha
+Hausa	        ha
 Hawaiian	haw (ISO-639-2)
-Hebrew	he or iw
-Hindi	hi
-Hmong	hmn (ISO-639-2)
+Hebrew	        he or iw
+Hindi	        hi
+Hmong	        hmn (ISO-639-2)
 Hungarian	hu
 Icelandic	is
-Igbo	ig
+Igbo	        ig
 Indonesian	id
-Irish	ga
-Italian	it
+Irish	        ga
+Italian	        it
 Japanese	ja
 Javanese	jv
-Kannada	kn
-Kazakh	kk
-Khmer	km
+Kannada	        kn
+Kazakh	        kk
+Khmer	        km
 Kinyarwanda	rw
-Korean	ko
-Kurdish	ku
-Kyrgyz	ky
-Lao	lo
-Latvian	lv
+Korean	        ko
+Kurdish	        ku
+Kyrgyz	        ky
+Lao	        lo
+Latvian	        lv
 Lithuanian	lt
 Luxembourgish	lb
 Macedonian	mk
 Malagasy	mg
-Malay	ms
+Malay	        ms
 Malayalam	ml
-Maltese	mt
-Maori	mi
-Marathi	mr
+Maltese	        mt
+Maori	        mi
+Marathi	        mr
 Mongolian	mn
-Myanmar (Burmese)	my
-Nepali	ne
+Myanmar(Burmese)my
+Nepali	        ne
 Norwegian	no
-Nyanja (Chichewa)	ny
+Nyanja(Chichewa)ny
 Odia (Oriya)	or
-Pashto	ps
-Persian	fa
-Polish	pl
+Pashto	        ps
+Persian	        fa
+Polish	        pl
 Portuguese (Portugal, Brazil)	pt
-Punjabi	pa
+Punjabi	        pa
 Romanian	ro
-Russian	ru
-Samoan	sm
+Russian	        ru
+Samoan	        sm
 Scots Gaelic	gd
-Serbian	sr
-Sesotho	st
-Shona	sn
-Sindhi	sd
+Serbian	        sr
+Sesotho	        st
+Shona	        sn
+Sindhi	        sd
 Sinhala (Sinhalese)	si
-Slovak	sk
+Slovak	        sk
 Slovenian	sl
-Somali	so
-Spanish	es
+Somali	        so
+Spanish	        es
 Sundanese	su
-Swahili	sw
-Swedish	sv
+Swahili	        sw
+Swedish	        sv
 Tagalog (Filipino)	tl
-Tajik	tg
-Tamil	ta
-Tatar	tt
-Telugu	te
-Thai	th
-Turkish	tr
-Turkmen	tk
+Tajik	        tg
+Tamil	        ta
+Tatar	        tt
+Telugu	        te
+Thai	        th
+Turkish	        tr
+Turkmen	        tk
 Ukrainian	uk
-Urdu	ur
-Uyghur	ug
-Uzbek	uz
+Urdu	        ur
+Uyghur	        ug
+Uzbek	        uz
 Vietnamese	vi
-Welsh	cy
-Xhosa	xh
-Yiddish	yi
-Yoruba	yo
-Zulu	zu
+Welsh	        cy
+Xhosa	        xh
+Yiddish	        yi
+Yoruba	        yo
+Zulu	        zu
